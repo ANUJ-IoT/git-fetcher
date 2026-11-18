@@ -1,6 +1,6 @@
 import { useState } from "react";
-import BackImage from "../src/assets/BackImage.png";
-import GitLogo from "../src/assets/GitLogo.png";
+import BackImage from "../assets/BackImage.png";
+import GitLogo from "../assets/GitLogo.png";
 
 export default function Home() {
   const [name, setName] = useState("");
